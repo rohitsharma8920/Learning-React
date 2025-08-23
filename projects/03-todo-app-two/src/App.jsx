@@ -23,8 +23,8 @@ function App() {
       todoDate:'04/07/2025'
     },
     {
-      name : 'Go to Collage',
-      todoDate:'04/07/2025'
+      name : 'Playing Cricket',
+      todoDate:'64/07/2025'
     },
     
   ]
@@ -37,7 +37,7 @@ function App() {
         <AddToDo></AddToDo>
         
         <TodoItems todoItems ={todoitems}></TodoItems>
-        <TodoItems todoItems ={todoitems}></TodoItems>
+        {/* <TodoItems todoItems ={todoitems}></TodoItems> */}
         
 
       
