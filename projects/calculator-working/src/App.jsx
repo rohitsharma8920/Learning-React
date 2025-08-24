@@ -8,7 +8,7 @@ function App() {
 
     const [calVal,setCalVal] = useState("")
     const onButtonClick = (buttonText) => {
-        console.log(buttonText)
+        // console.log(buttonText)
         if(buttonText === 'C'){
             setCalVal("")
 
@@ -20,10 +20,6 @@ function App() {
             setCalVal(newDisplayValue)
         }
     }
-
-
-
-
 
  return <>
  <center>
