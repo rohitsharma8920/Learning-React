@@ -1,9 +1,15 @@
 
 .kg-item{
-  background-color: blueviolet;
-  color: brown;
+  /* background-color: blueviolet;  */
+   color: brown;
+  
 }
 
 .app-heading{
-  background-color: bisque;
+  /* background-color: bisque; */
+}
+
+.button{
+  background-color: green;
+ float: inline-end;
 }
