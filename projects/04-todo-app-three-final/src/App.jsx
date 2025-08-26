@@ -42,9 +42,6 @@ function App() {
 
         {/* <TodoItems todoItems ={todoitems}></TodoItems> */}
         
-
-      
-
        
       </center>
     </>
